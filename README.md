@@ -5,12 +5,14 @@ Learning C from the metal up: CPU and memory mental models, RISC-V (rv32i) assem
 ## Progress Log
 | Day | Date | Lecture | What I built |
 |-----|------|---------|--------------|
-| 1 | 2026-10-08 | Roadmap and Mindset | Repo setup, roadmap |
+| 1 | 2026-10-06 | Roadmap and Mindset | Repo setup, roadmap |
+| 2 | 2026-10-07 | Sandbox Environment and Basic C Program |  |
+| 3 | 2026-10-08 | Roadmap and Mindset | Repo setup, roadmap |
 
 ## Course Checklist
 ### C Language Tour
 - [x] Roadmap and Mindset
-- [x] Sandbox Environment and Basic C Program
+- [ ] Sandbox Environment and Basic C Program
 - [ ] Keep an Eye on Functions, Pointers and Structs
 - [ ] Example of the RAW power
 

@@ -7,14 +7,14 @@ Learning C from the metal up: CPU and memory mental models, RISC-V (rv32i) assem
 |-----|------|---------|--------------|
 | 1 | 2026-10-06 | Roadmap and Mindset | Repo setup, roadmap |
 | 2 | 2026-10-07 | Sandbox Environment and Basic C Program |  |
-| 3 | 2026-10-08 | Roadmap and Mindset | Repo setup, roadmap |
+| 3 | 2026-10-08 | Keep an Eye on Functions, Pointers and Structs; Example of the RAW power |  |
 
 ## Course Checklist
 ### C Language Tour
 - [x] Roadmap and Mindset
-- [ ] Sandbox Environment and Basic C Program
-- [ ] Keep an Eye on Functions, Pointers and Structs
-- [ ] Example of the RAW power
+- [x ] Sandbox Environment and Basic C Program
+- [ x] Keep an Eye on Functions, Pointers and Structs
+- [ x] Example of the RAW power
 
 ### Mental Models
 - [ ] Mental Model of the System

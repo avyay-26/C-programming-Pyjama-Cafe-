@@ -22,8 +22,8 @@ Learning C from the metal up: CPU and memory mental models, RISC-V (rv32i) assem
 - [x] Example of the RAW power - Functions, Struct and Pointers
 
 ### Mental models to brain tattoo (3 lectures)
-- [ ] Mental Model of the System
-- [ ] The mental model of the CPU
+- [x] Mental Model of the System
+- [x] The mental model of the CPU
 - [ ] The mental model of the Memory
 
 ### From Text to Binary (4 lectures)
